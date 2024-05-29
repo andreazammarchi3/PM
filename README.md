@@ -1,2 +1,5 @@
-# PM
-Progetto per esame di Project Management 2023/2024
+# 👨🏻‍💻 PM
+Progetto per esame di _Project Management_ A.A. 2023/2024, by Andrea Zammarchi.
+
+## 📝 Abstract
+L’interesse per il beach volley è cresciuto significativamente negli ultimi anni, portando la società _Beach Volley UniBo_ a ricercare soluzioni innovative per migliorare l’esperienza di giocatori e spettatori. Recentemente, la società ha notato la necessità di analizzare più efficacemente le partite attraverso video analisi, per ottenere dati statistici dettagliati come il conteggio dei punti per giocatore e altre metriche di performance. La raccolta manuale di tali dati è spesso soggetta a errori e inefficienze, per non parlare delle ore di tempo sprecate dagli allenatori passate a guardarsi video di vecchie partite, anche più volte. Motivo per cui la società ha deciso di contattare la nostra azienda, specializzata nello sviluppo di soluzioni di computer vision, per creare un’applicazione capace di analizzare i video delle partite e fornire report statistici dettagliati automaticamente.
